@@ -2,3 +2,8 @@ h1{
     color: #FFE300;
     font-size: 63px;
 }
+.logo{
+    width:250px;
+    cursor: pointer;
+    margin-bottom: 5rem;
+}
